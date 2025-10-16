@@ -9,6 +9,7 @@ Play against another player or challenge an unbeatable AI opponent powered by th
 
 ## 💻 Features 
 
+---
 ✅ Player vs Player (PVP) mode
 ✅ Player vs Computer (PVC) mode with smart AI
 ✅ Minimax Algorithm ensures optimal computer play
@@ -29,11 +30,11 @@ Play against another player or challenge an unbeatable AI opponent powered by th
 
 ## 🎯 Learning Outcomes
 
-✅ Building a fully interactive browser game with **vanilla JavaScript**
-✅ Implementing the **Minimax algorithm** for unbeatable AI gameplay
-✅ Structuring responsive layouts using **Flexbox** and **Grid**
-✅ Managing game state, events, and UI updates efficiently
-✅ Deploying web projects using **GitHub Pages**
+- Building a fully interactive browser game with **vanilla JavaScript**
+- Implementing the **Minimax algorithm** for unbeatable AI gameplay
+- Structuring responsive layouts using **Flexbox** and **Grid**
+- Managing game state, events, and UI updates efficiently
+- Deploying web projects using **GitHub Pages**
 
 ---
 
