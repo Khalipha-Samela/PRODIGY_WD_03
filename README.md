@@ -40,6 +40,7 @@ Play against another player or challenge an unbeatable AI opponent powered by th
 ## 🚀 Live Demo
  
 🔗 **View the project here:** [https://github.com/Khalipha-Samela/PRODIGY_WD_03.git]
+
 ---
 
 ## 🖼️ Preview
@@ -58,4 +59,4 @@ Play against another player or challenge an unbeatable AI opponent powered by th
 
 ### 🏁 Internship Details
 **Organization:** Prodigy InfoTech  
-**Task 02:** To build a tic-tac-toe web application, you can use HTML, CSS, and JavaScript. By implementing functions to handle user clicks, track game state, and check for winning conditions, you can create an interactive and engaging tic-tac-toe game. With these technologies and functionalities, users can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
+**Task 03:** To build a tic-tac-toe web application, you can use HTML, CSS, and JavaScript. By implementing functions to handle user clicks, track game state, and check for winning conditions, you can create an interactive and engaging tic-tac-toe game. With these technologies and functionalities, users can play against each other or against an AI opponent, aiming to get three markers in a row to win the game.
