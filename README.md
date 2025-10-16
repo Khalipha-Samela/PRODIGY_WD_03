@@ -9,7 +9,7 @@ Play against another player or challenge an unbeatable AI opponent powered by th
 
 ## 💻 Features 
 
-✅ Playe vs Player (PVP) mode  
+✅ Player vs Player (PVP) mode  
 ✅ Player vs Computer (PVC) mode with smart AI  
 ✅ Minimax Algorithm ensures optimal computer play  
 ✅ Live Scoreboar tracking wins and draws  
