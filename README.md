@@ -9,15 +9,14 @@ Play against another player or challenge an unbeatable AI opponent powered by th
 
 ## 💻 Features 
 
----
-✅ Player vs Player (PVP) mode
-✅ Player vs Computer (PVC) mode with smart AI
-✅ Minimax Algorithm ensures optimal computer play
-✅ Live Scoreboard tracking wins and draws
-✅ Choose Your Symbol before playing
-✅ Reset Round or Start New Game anytime
-✅ Responsive & Accessible** — works on all devices
-✅ Modern interface with smooth transitions and highlight animations
+-✅ Player vs Player (PVP) mode
+-✅ Player vs Computer (PVC) mode with smart AI
+-✅ Minimax Algorithm ensures optimal computer play
+-✅ Live Scoreboard tracking wins and draws
+-✅ Choose Your Symbol before playing
+-✅ Reset Round or Start New Game anytime
+-✅ Responsive & Accessible** — works on all devices
+-✅ Modern interface with smooth transitions and highlight animations
 
 ---
 
