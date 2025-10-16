@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tic-Tac-Toe</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+    <h1>Tic-Tac-Toe</h1>
+
+    <div class="game-mode" role="tablist" aria-label="game mode">
+      <button id="pvp-mode" class="mode-btn active">Player vs Player</button>
+      <button id="pvc-mode" class="mode-btn">Player vs Computer</button>
+    </div>
+
+    <div id="choose-symbol-area" class="choose-symbol" aria-hidden="true" style="display:none;">
+      <div style="align-self:center;font-weight:700;color:#333;">Choose:</div>
+      <button id="choose-x" class="symbol-btn x">Play as X</button>
+      <button id="choose-o" class="symbol-btn o">Play as O</button>
+    </div>
+
+    <div class="score-board" aria-live="polite">
+      <div class="score">
+        <h3>Player X</h3>
+        <div id="x-score" class="score-value x-score">0</div>
+      </div>
+      <div class="score">
+        <h3>Draws</h3>
+        <div id="draw-score" class="score-value draw-score">0</div>
+      </div>
+      <div class="score">
+        <h3>Player O</h3>
+        <div id="o-score" class="score-value o-score">0</div>
+      </div>
+    </div>
+
+    <div class="game-info" id="game-info">Player X's Turn</div>
+    <div id="game-board" class="game-board" aria-label="tic tac toe board"></div>
+    <div class="status" id="status" aria-live="polite"></div>
+
+    <div class="game-controls">
+      <button id="reset-btn" class="reset">Reset Round</button>
+      <button id="new-game-btn" class="secondary">New Game (clear scores)</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
